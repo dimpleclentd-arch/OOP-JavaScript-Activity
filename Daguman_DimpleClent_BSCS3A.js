@@ -1,7 +1,7 @@
 // VARIABLES 3
 let studentName = "Juan";
 let age = 18;
-let course = "BSIT";
+let course = "BSCOM";
 
 // ARRAYS 3
 let subjects = ["Programming", "Math", "English"];
